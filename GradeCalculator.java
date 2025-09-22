@@ -1,4 +1,4 @@
-ararimport javax.swing.*;
+import javax.swing.*;
 import java.util.ArrayList;
 import java.text.DecimalFormat;
 import java.awt.*;
