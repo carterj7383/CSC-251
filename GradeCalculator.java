@@ -15,7 +15,7 @@ public class GradeCalculator {
             return;
         }
 
-        // ---- GUI path (meets assignment's JOptionPane requirement) ----
+        // ---- GUI path ----
         showWelcomeMessage();
 
         int choice;
